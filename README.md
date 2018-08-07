@@ -1,1 +1,2 @@
 # CellularAutomata
+Visual Studio project
